@@ -2,8 +2,9 @@ require "gakkacho/version"
 require "yaml"
 
 module Gakkacho
-  YAML.load_file("./lib/universities.yml").each do |univ, univ_dirname|
-    university_path = "./lib/universities/#{univ_dirname}"
+  BASE_PATH = "./lib/gakkacho"
+  YAML.load_file("#{BASE_PATH}/universities.yml").each do |univ, univ_dirname|
+    university_path = "#{BASE_PATH}/universities/#{univ_dirname}"
     YAML.load_file(university_path + "/departments.yml").each do |dept, dept_dirname|
       department_path = university_path+ "/" + dept_dirname
       YAML.load_file(department_path + "/courses.yml").each do |cour, cour_filename|
