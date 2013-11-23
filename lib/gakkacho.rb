@@ -2,7 +2,8 @@ require "gakkacho/version"
 require "yaml"
 
 module Gakkacho
-  BASE_PATH = "./lib/gakkacho"
+  BASE_PATH = File.join(File.dirname(__FILE__)
+
   YAML.load_file("#{BASE_PATH}/universities.yml").each do |univ, univ_dirname|
     university_path = "#{BASE_PATH}/universities/#{univ_dirname}"
     YAML.load_file(university_path + "/departments.yml").each do |dept, dept_dirname|
