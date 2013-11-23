@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Gakkacho::VERSION
   spec.authors       = ["Ken Ohata"]
   spec.email         = ["ohata@daraf.co.jp"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{The subjects in Japanese Science Universities}
+  spec.summary       = %q{The subjects in Japanese Science Universities}
   spec.homepage      = ""
   spec.license       = "MIT"
 
