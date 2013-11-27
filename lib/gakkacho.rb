@@ -4,15 +4,21 @@ require "yaml"
 module Gakkacho
   BASE_PATH = File.join(File.dirname(__FILE__)) + "/gakkacho"
 
-  YAML.load_file("#{BASE_PATH}/universities.yml").each do |univ, univ_dirname|
-    university_path = "#{BASE_PATH}/universities/#{univ_dirname}"
-    YAML.load_file(university_path + "/departments.yml").each do |dept, dept_dirname|
-      department_path = university_path+ "/" + dept_dirname
-      YAML.load_file(department_path + "/courses.yml").each do |cour, cour_filename|
-        @@subjects                 ||= {}
-        @@subjects[univ]           ||= {}
-        @@subjects[univ][dept]     ||= {}
-        @@subjects[univ][dept][cour] = YAML.load_file(department_path + "/#{cour_filename}.yml")
+  universities = []
+  universities << "tokyo_university_of_science"
+
+  universities.each do |university|
+    university_yaml = YAML.load_file("#{BASE_PATH}/#{university}.yml")
+    university_name = university_yaml["name"]
+    university_yaml["departments"].each do |department|
+      department_path = department["path"]
+      department_name = department["name"]
+      department["courses"].each do |course_path, course_name|
+        course_yaml = YAML.load_file("#{BASE_PATH}/#{university}/#{department_path}/#{course_path}.yml")
+        @@subjects ||= {}
+        @@subjects[university_name] ||= {}
+        @@subjects[university_name][department_name] ||= {}
+        @@subjects[university_name][department_name][course_name] = course_yaml
       end
     end
   end
