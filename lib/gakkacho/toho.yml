@@ -2,9 +2,9 @@ name: 東邦大学
 path: toho_university
 departments:
   - path: igaku
-  	name: 医学部
-  	courses:
-  	  m: 医学科
+    name: 医学部
+    courses:
+      m: 医学科
   - path: kango
     name: 看護学部
     courses:
@@ -22,4 +22,3 @@ departments:
     name: 薬学部
     courses:
       pl: 薬学科
-
