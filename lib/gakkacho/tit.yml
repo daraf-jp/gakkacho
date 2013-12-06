@@ -1,0 +1,64 @@
+name: 東京工業大学
+path: tokyo_institute_of_technology
+departments:
+  - path: 1
+    name: 第1類
+    courses:
+      chemistry: 化学科
+      commons: 一般教養
+      geo_science: 地球惑星科学科
+      info_science: 情報科学科
+      math: 数学科
+      physics: 物理学科
+  - path: 2
+    name: 第2類
+    courses:
+      om: 有機材料工学科
+      io: 無機材料工学科
+      se: 社会工学科
+      me: 金属工学科
+      cm: 1、2年全学科共通
+  - path: 3
+    name: 第3類
+    courses:
+      ce: 化学工学科
+      is: 経営システム工学科
+      se: 社会工学科
+      pc: 高分子工学科
+      cm: 1、2年全学科共通
+  - path: 4
+    name: 第4類
+    courses:
+      cs: 制御システム工学科
+      id: 国際開発工学科
+      ma: 機械宇宙学科
+      ms: 機械知能システム学科
+      mi: 機械科学科
+      se: 社会工学科
+      is: 経営システム工学科
+      cm: 1年全学科共通
+  - path: 5
+    name: 第5類
+    courses:
+      ee: 電気電子工学科
+      cs: 制御システム工学科  
+      se: 社会工学科
+      ie: 情報工学科
+      cm: 全学科共通
+  - path: 6
+    name: 第6類
+    courses:
+      ce: 土木・環境工学科
+      ar: 建築学科
+      se: 社会工学科
+      cm: 1年全学科共通
+  - path: 7
+    name: 第7類
+    courses:
+      be: 生命工学科
+      bi: 生命科学科
+      se: 社会工学科
+      cm: 1年全学科共通
+
+
+

@@ -1,0 +1,21 @@
+name: 大学
+departments:
+  - path: riko
+    name: 理工学部
+    courses:
+      ma: 数学科
+      ph: 物理学科
+      is: 情報科学科
+      bs: 応用生物科学科
+      ar: 建築学科
+      ci: 工業化学科
+      ee: 電気電子情報工学科
+      ia: 経営工学科
+      me: 機械工学科
+      cv: 土木工学科
+  - path: kisoko
+    name: 基礎工学部
+    courses:
+      te: 電子応用工学科
+      tm: 材料工学科
+      tb: 生物工学科

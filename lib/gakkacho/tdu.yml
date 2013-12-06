@@ -1,0 +1,39 @@
+name: 東京電機大学
+path: tokyo_denki_university
+departments:
+  - path: kogaku
+    name: 工学部
+    courses:
+      cm: 共通・人間科学科目
+      te: 情報通信工学科
+      me: 機械工学科
+      ec: 環境化学科
+      ee: 電気電子工学科
+  - path: kogaku2bu
+    name: 工学部二部
+    courses:
+      cm: 人間科学科目
+      te: 情報通信工学科
+      tt: 教職課程科目
+      em: 機械工学科
+      sc: 社会人コース科目
+      el: 英語科目
+      e2: 電気工学科(工学部二部)
+      ee: 電気電子工学科
+  - path: miraikagaku
+    name: 未来科学部
+    courses:
+      rm: ロボット・メカトロニクス学科
+      ar: 建築学科
+      rm: 情報メディア学科
+  - path: riko
+    name: 理工学部
+    courses:
+      ae: 建設環境工学科
+      se: 情報システム工学科
+      sn: 情報社会学科
+      is: 情報科学科
+      mi: 数理情報科学科
+      be: 生命工学科
+      im: 知能機械工学科
+      ei: 電気情報学科
