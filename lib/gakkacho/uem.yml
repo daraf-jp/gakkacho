@@ -1,7 +1,0 @@
-name: 電気通信大学
-path: university_of_electro_communication
-departments:
-  - path: all
-    name: 全学部
-    courses:
-      all: 全科目
