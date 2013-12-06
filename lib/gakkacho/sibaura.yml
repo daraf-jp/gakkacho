@@ -1,0 +1,39 @@
+name: 芝浦工業大学
+path: shibaura_institute_of_technology
+departments:
+  - path: designkogaku
+    name: デザイン工学部
+    courses:
+      kiso: 共通基礎科目
+      kyoyo: 共通教養科目
+      ed: 専門科目・エンジニアリングデザイン
+      pd: 専門科目・プロダクトデザイン
+      vd: 専門科目・空間デザイン
+  - path: systemkogaku
+    name: システム工学部
+    courses:
+      kiso: 共通科目教職
+      kyoyo: 共通科目
+      dobokusystem: 土木工学科社会システムデザインコース
+      dobokukiban: 土木工学科社会基盤コース
+      ar: 建築学科
+      ae: 建築工学科
+      ac: 応用化学科
+      zairyo:材料工学科
+      me: 機械工学科
+      mkinou: 機械機能工学科
+      tushin: 通信工学科
+      denshi: 電子工学科
+      ee: 電機工学科
+  - path: kogaku
+    name: 工学部
+    courses:
+      cm: 共通科目
+      ms: 数理科学科
+      mc: 機械制御システム学科
+      es: 環境システム学科
+      bd: 生命科学科生命医工学コース
+      bs: 生命科学科生命科学コース
+      all: 総合科目
+      ec: 電子情報システム学科
+  
