@@ -1,4 +1,4 @@
-# require "gakkacho/version"
+require "gakkacho/version"
 require "yaml"
 
 module Gakkacho
