@@ -1,0 +1,20 @@
+name: 東京農工大学
+path: tokyo_university_of_agriculture_and_technology
+departments:
+  - path: nogaku
+    name: 農学部
+    courses:
+      cv: 共同獣医学科
+      er: 環境資源科学化
+      ab: 応用生物学科
+      bp: 生物生産学科
+      es: 地球生体システム学科
+  - path: kogaku
+    name: 工学部
+    courses:
+      be: 生命工学科
+      mc: 応用分子化学科
+      oc: 有機材料化学科
+      cs: 化学システム工学科
+      ms: 機械システム工学科
+      ps: 物理システム工学科

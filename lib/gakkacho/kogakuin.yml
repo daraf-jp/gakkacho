@@ -1,0 +1,32 @@
+name: 工学院大学
+path: kogakuin_university
+departments:
+  - path: global_eng
+    name: グローバルエンジニアリング学部
+    courses:
+      g1: 機械創造工学科
+  - path: jouhou
+    name: 情報学部
+    courses:
+      j1: コンピュータ科学科
+      j2: 情報デザイン科
+      j3: 情報工学科
+      j4: 電子工学科
+      j5: 電気工学科
+      ms: マテリアル科学科
+  - path: kentiku
+    name: 建築学部
+    courses:
+      d: 建築学部(まちづくり学科 建築学科 建築デザイン学科)
+      dc: 建築都市デザイン学科
+      dd: 建築学科建築学コース
+      de: 建築学科環境構築コース
+  - path: kogaku
+    name: 工学部第一部
+    courses:
+      a1: 機械工学科
+      a2: 機械工学システム科
+      b4: 応用化学科
+      b5: 環境エネルギー科学科
+      c4: 電気システム工学科
+      c5: 情報通信工学科

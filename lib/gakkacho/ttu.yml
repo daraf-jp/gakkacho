@@ -1,0 +1,21 @@
+name: 東京都市大学
+path: tokyo_toshi_university
+departments:
+  - path: kogaku
+    name: 工学部
+    courses:
+      energy: エネルギー化学科:観葉エネルギー工学科
+      iyoukogaku: 医用工学科:生体医工学科
+      genshiryoku: 原子力安全工学科
+      ar: 建築学科
+      kikaisystem: 機械システム工学科
+      kikaikou: 機械工学科
+      toshi: 都市工学科
+      denkidenshi: 電気電子工学科:電気電子情報工学科
+  - path: chishiki
+    name: 知識工学部
+    courses:
+      keiei: 生命工学科
+      shizen: 応用分子化学科
+      zyohokagaku: 有機材料化学科
+      zyohotushin: 化学システム工学科

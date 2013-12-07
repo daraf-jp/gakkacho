@@ -1,0 +1,24 @@
+name: 東邦大学
+path: toho_university
+departments:
+  - path: igaku
+    name: 医学部
+    courses:
+      m: 医学科
+  - path: kango
+    name: 看護学部
+    courses:
+      n: 看護学科
+  - path: rigaku
+    name: 理学部
+    courses:
+      mch: 分子化学科
+      ch: 化学科
+      is: 情報学科
+      ph: 物理学科
+      ev: 生命圏環境科学科
+      vi: 生物科
+  - path: yaku
+    name: 薬学部
+    courses:
+      pl: 薬学科
