@@ -1,6 +1,10 @@
 name: 東京理科大学
 path: tokyo_university_of_science
 departments:
+  - path: kogaku
+    name: 工学部
+    courses:
+      ar: 建築学科
   - path: riko
     name: 理工学部
     courses:
