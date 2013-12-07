@@ -9,17 +9,17 @@ departments:
       ed: 専門科目・エンジニアリングデザイン
       pd: 専門科目・プロダクトデザイン
       vd: 専門科目・空間デザイン
-  - path: systemkogaku
-    name: システム工学部
+  - path: systemriko
+    name: システム理工学部
     courses:
-      kiso: 共通科目教職
-      kyoyo: 共通科目
+      # kiso: 共通科目教職
+      # kyoyo: 共通科目
       dobokusystem: 土木工学科社会システムデザインコース
       dobokukiban: 土木工学科社会基盤コース
       ar: 建築学科
       ae: 建築工学科
       ac: 応用化学科
-      zairyo:材料工学科
+      zairyo: 材料工学科
       me: 機械工学科
       mkinou: 機械機能工学科
       tushin: 通信工学科
@@ -36,4 +36,3 @@ departments:
       bs: 生命科学科生命科学コース
       all: 総合科目
       ec: 電子情報システム学科
-  
