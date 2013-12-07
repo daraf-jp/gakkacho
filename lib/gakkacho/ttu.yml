@@ -12,7 +12,7 @@ departments:
       kikaikou: 機械工学科
       toshi: 都市工学科
       denkidenshi: 電気電子工学科:電気電子情報工学科
-  - path: chishikikogaku
+  - path: chishiki
     name: 知識工学部
     courses:
       keiei: 生命工学科
