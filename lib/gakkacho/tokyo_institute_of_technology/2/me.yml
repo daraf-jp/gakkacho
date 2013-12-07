@@ -1,0 +1,66 @@
+--- 
+1: 
+  first: 
+    - 
+  second: 
+    - 
+2: 
+  first: 
+    - 物理化学(材)第一
+    - 電気学第一
+    - 金属の状態図
+    - 量子力学(材)
+    - 材料科学B
+    - 物理化学(材)第一
+    - 材料科学実験第一
+    - 物理学D
+    - 情報処理概論演習(材)
+    - 基礎工業数学第一
+    - 結晶学概論A
+    - 結晶学概論B
+    - "Technical English A(Metallurgical Engineering)"
+  second: 
+    - 一般材料力学A
+    - 電気学第二
+    - 基礎工業数学第二
+    - 材料科学実験第二
+    - 物理化学(材)第二
+    - 金属の変形
+    - 結晶回折
+    - 応力とひずみの基礎
+    - 金属・合金の凝固
+    - 一般機械工作実習
+3: 
+  first: 
+    - 電気学第一
+    - 格子欠陥と転位
+    - 高温反応の熱力学
+    - 表面物理化学
+    - 金属物性
+    - 金属の相安定と相変化
+    - 鋼鉄材料学第一
+    - エレクトロニクス材料A
+    - 材料と社会
+    - 金属工学創成プロジェクト
+    - "English Seminar in Metallurgical Engineerring"
+    - 機器分析概論(金属)
+    - エレクトロニクス材料B
+    - "Technical English A (Metallurgical Engineering)"
+    - 一般機械工学
+  second: 
+    - 高温反応の速度論
+    - 材料精錬プロセス第一
+    - 金属の疲労
+    - 軽合金材料
+    - 材料製造プロセスA
+    - 材料精錬プロセス第二
+    - 鉄鋼材料学第二
+    - 一般機械工作実習
+4: 
+  first: 
+    - "Advanced International Communication for Engineers"
+    - 金属工学コロキウム
+    - "Technical English A (Metallurgical Engineering)"
+    - 一般機械工学
+  second: 
+    - 

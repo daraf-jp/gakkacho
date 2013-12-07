@@ -1,0 +1,45 @@
+name: 北里大学
+path: kitasato_university
+departments:
+  - path: igaku
+    name: 医学部
+    courses:
+      m: 医学科
+  - path: iryou_eisei
+    name: 医療衛生学部
+    courses:
+      ce: 臨床工学専攻　
+      et: 医療工学科
+      hs: 健康科学科
+      ml: 医療検査学科
+      ot: 作業療法学専攻
+      ov: 視覚機能療法学専攻
+      pt: 理学療法学専攻
+      re: リハビリテーション学科
+      rt: 診療放射線技術科学専攻
+      st: 言語聴覚療法学専攻
+  - path: juui
+    name: 獣医学部
+    courses:
+      e: 生物環境科学科
+      v: 獣医学科
+      z: 動物資源科学科
+  - path: kaiyou_seimei
+    name: 海洋生命科学部
+    courses:
+      mb: 海洋生命科学科
+  - path: kango
+    name: 看護学部
+    courses:
+      n: 看護学科
+  - path: rigaku
+    name: 理学部
+    courses:
+      sb: 生物科学科
+      sc: 化学科
+      sp: 物理学科
+  - path: yaku
+    name: 薬学部
+    courses:
+      pl: 薬学科
+      pp: 生命創薬科学科
