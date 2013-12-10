@@ -1,10 +1,19 @@
 name: 東京理科大学
 path: tokyo_university_of_science
 departments:
-  - path: kogaku
-    name: 工学部
+  - path: kogaku_1
+    name: 工学部第一部
     courses:
       ar: 建築学科
+      ci: 工業化学科
+      ia: 経営工学科
+      me: 機械工学科
+      ee: 電気工学科
+  - path: kogaku_2
+    name: 工学部第二部
+      ia: 経営工学科
+      ar: 建築学科
+      ee: 電気工学科
   - path: riko
     name: 理工学部
     courses:
