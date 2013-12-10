@@ -11,6 +11,7 @@ departments:
       ee: 電気工学科
   - path: kogaku_2
     name: 工学部第二部
+    courses:
       ia: 経営工学科
       ar: 建築学科
       ee: 電気工学科
