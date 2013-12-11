@@ -15,6 +15,11 @@ departments:
       ia: 経営工学科
       ar: 建築学科
       ee: 電気工学科
+  - path: yaku
+    name: 薬学部
+    courses:
+      ym: 生命創薬科学科
+      yp: 薬学科
   - path: riko
     name: 理工学部
     courses:
