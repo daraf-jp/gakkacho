@@ -1,5 +1,6 @@
 name: 電気通信大学
 path: university_of_electro_communication
+mailer: https://webmail.cc.uec.ac.jp/am_bin/amlogin
 departments:
   - path: all
     name: 全学部

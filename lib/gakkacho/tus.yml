@@ -1,5 +1,6 @@
 name: 東京理科大学
 path: tokyo_university_of_science
+mailer: https://mail.ed.tus.ac.jp/cgi-bin/index.cgi
 departments:
   - path: kogaku_1
     name: 工学部第一部

@@ -1,5 +1,6 @@
 name: 東京都市大学
 path: tokyo_toshi_university
+mailer: https://mail.tcu.ac.jp/cgi-bin/index.cgi
 departments:
   - path: kogaku
     name: 工学部

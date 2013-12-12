@@ -1,5 +1,6 @@
 name: 東京電機大学
 path: tokyo_denki_university
+mailer: https://webmail.dendai.ac.jp/ms/cgi-bin/index.cgi
 departments:
   - path: kogaku
     name: 工学部

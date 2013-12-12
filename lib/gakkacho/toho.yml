@@ -1,5 +1,6 @@
 name: 東邦大学
 path: toho_university
+mailer: https://webmail.st.toho-u.ac.jp/cgi-bin/index.cgi
 departments:
   - path: igaku
     name: 医学部

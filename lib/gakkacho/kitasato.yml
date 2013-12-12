@@ -1,5 +1,6 @@
 name: 北里大学
 path: kitasato_university
+mailer: https://mail.google.com/a/st.kitasato-u.ac.jp/
 departments:
   - path: igaku
     name: 医学部

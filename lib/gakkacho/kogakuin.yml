@@ -1,5 +1,6 @@
 name: 工学院大学
 path: kogakuin_university
+mailer: https://kuport.sc.kogakuin.ac.jp/ActiveCampus/
 departments:
   - path: global_eng
     name: グローバルエンジニアリング学部

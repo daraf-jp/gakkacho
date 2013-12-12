@@ -1,5 +1,6 @@
 name: 東京工業大学
 path: tokyo_institute_of_technology
+mailer: http://portal.titech.ac.jp
 departments:
   - path: 1
     name: 第1類
