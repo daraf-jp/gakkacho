@@ -8,6 +8,12 @@ module Gakkacho
     YAML.load_file(path)
   end
 
+  @@mailers = {}
+
+  universities.each do |university|
+    @@mailers[university["name"]] = university["mailer"]
+  end
+
   universities.each do |university|
     u_path = university["path"]
     u_name = university["name"]
@@ -39,5 +45,9 @@ module Gakkacho
 
   def all_subjects_in univ, dept, cour, grade, term
     @@subjects[univ][dept][cour][grade.to_i][term]
+  end
+
+  def university_mailer_url univ
+    @@mailers[univ]
   end
 end
