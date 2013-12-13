@@ -40,3 +40,7 @@ departments:
       te: 電子応用工学科
       tm: 材料工学科
       tb: 生物工学科
+  - path: keiei
+    name: 経営学部
+    courses:
+      sm: 経営学科
