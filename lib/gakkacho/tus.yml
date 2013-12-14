@@ -44,3 +44,12 @@ departments:
     name: 経営学部
     courses:
       sm: 経営学科
+  - path: rigaku_1
+    name: 理学部第一部
+    courses:
+      s: 数学科
+      sj: 数理情報科
+      b: 物理科
+      ob: 応用物理科
+      k: 化学科
+      ok: 応用化学科
